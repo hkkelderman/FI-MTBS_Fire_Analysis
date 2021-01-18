@@ -54,7 +54,7 @@ I used a Tukey’s Range test to determine that yes, some states and ecoregions 
 Using a Welch’s T-test, and comparing three year averages from 1986-1988 and 2016-2018, I was again able to reject the null hypothesis.
 Fires are getting larger. The average fire between 2016 and 2018 was 6,000 acres bigger than the average fire between 1986 and 1988.
 
-<img src="Images-Used/wildfire.gif" width = "500">
+<img src="Images-Used/wildfire_inf.gif" width = "500">
 
 
 #### And finally, where are wildfires getting bigger and becoming more frequent.
